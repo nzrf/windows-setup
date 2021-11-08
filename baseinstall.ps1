@@ -26,6 +26,7 @@ steam
 ECHO Installing Multimedia Apps
 staxrip
 vlc
+spotify
 
 ECHO Installing Development Tools
 etcher
